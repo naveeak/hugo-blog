@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on My New Hugo Site</title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content in Posts on My New Hugo Site</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 10 Aug 2024 15:59:47 +0530</lastBuildDate>
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My First Blog</title>
+      <link>http://localhost:1313/first-blog/</link>
+      <pubDate>Sat, 10 Aug 2024 15:59:47 +0530</pubDate>
+      <guid>http://localhost:1313/first-blog/</guid>
+      <description>My first Blog post using Hugo inspired and guided by Sive https://www.sivalabs.in/creating-blog-using-hugo-asciidoc-netlify/&#xA;Words of noob class Hello { String hello() { return &amp;#34;Hello World&amp;#34; } } Summary Since you are here .. read out my second blog post (I hope i will continue to blog). Bye</description>
+    </item>
+  </channel>
+</rss>
